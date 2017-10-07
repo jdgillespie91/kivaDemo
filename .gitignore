@@ -1,0 +1,9 @@
+# Python artefacts
+*.egg-info/
+__pycache__/
+
+# Node artefacts
+node_modules/
+
+# IDE config
+.idea/

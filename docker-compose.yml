@@ -11,3 +11,8 @@ services:
     ports:
       - 4000:4000
 
+  data-analysis:
+    build:
+      context: ./dataAnalysis
+      dockerfile: Dockerfile
+
